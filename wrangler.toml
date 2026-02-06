@@ -1,4 +1,4 @@
-name = "secure-p2p-chat"
+name = "webchatsec"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
