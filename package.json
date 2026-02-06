@@ -1,0 +1,14 @@
+{
+  "name": "chitchatter-nodecrypt-workers",
+  "version": "1.0.0",
+  "description": "P2P E2EE chat on Cloudflare Workers",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.22.0"
+  }
+}
